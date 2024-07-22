@@ -4,7 +4,8 @@
 //-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
 preText = "http://webcache.googleusercontent.com/search?q=cache:";
 inText = prompt("Enter a URL to get the Cached page!\nHelp: sidshardanand.com");
-if(inText === null){
-	inText = window.location.href;
-} 
-window.location.replace(preText + inText);
+if(inText == ""){
+	window.location.replace(preText + window.location.href);
+} else if(inText!=null) {
+	window.location.replace(preText + inText);
+}
