@@ -7,5 +7,11 @@ The legendary tech still lives on, fading into obscurity, known only to those go
 In an effort to make things slightly better in this cruel and unfeeling world, I turned the caching URL transformation into a javascript bookmarklet.  
 When you use it, it will let you cache a URL you paste into it, otherwise if you click it and hit enter it will cache the current URL  
 ## Usage
+Click on the bookmarklet.  
+You may then enter a URL to be taken to its cached page:  
 
+Or type enter/click ok redirected to the current page:  
+
+Otherwise cancel to do nothing. 
 ## Installation
+To install ezCache, just copy the code from [here](https://raw.githubusercontent.com/s1ddly/ezCache/main/script.min.js) into a new bookmark, and pre-pend the code with "javascript:":  
