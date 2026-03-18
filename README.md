@@ -1,3 +1,5 @@
+**Unfortunately, Google no longer provides caching functionality, so this tool isn't really that useful anymore. It was fun while it lasted.**  
+[Source](https://x.com/searchliaison/status/1753156161509916873)  
 # ezCache
 Have you ever wanted to access a link but its broken or currently down?  
 Google used to have a very handy tool to get that link, called google cached.  
